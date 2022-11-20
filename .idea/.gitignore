@@ -1,4 +1,9 @@
 # Default ignored files
 /shelf/
 /workspace.xml
-.idea/
+.idea
+i-love-cats.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
